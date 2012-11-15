@@ -15,6 +15,6 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @property (strong, nonatomic) ViewController *viewController;
-@property (strong, nonatomic) ViewController *viewController23;
+@property (strong, nonatomic) ViewController *viewController234;
 
 @end
