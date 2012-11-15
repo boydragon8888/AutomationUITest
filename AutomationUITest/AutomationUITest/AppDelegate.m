@@ -19,9 +19,7 @@
     self.viewController = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
-    NSLog(@"This is testing");
-    NSLog(@"This is testing123");
-    NSLog(@"This is testing123456");
+    NSLog(@"Just testing for Helios");
     return YES;
 }
 
