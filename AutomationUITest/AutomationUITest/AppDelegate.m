@@ -21,6 +21,7 @@
     [self.window makeKeyAndVisible];
     NSLog(@"This is testing");
     NSLog(@"This is testing123");
+    NSLog(@"This is testing123456");
     return YES;
 }
 
